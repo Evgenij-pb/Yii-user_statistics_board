@@ -9,7 +9,7 @@ The application displays users and counts completed tasks by categories for a sp
 
 ### RUN APPLICATION 
 To test the application, you need create a database named yii-test-project, then:
--  Import the dump from yii-test-project-dump.sql located in the project's root  directory.
+-  Import the dump from yii-test-project-dump.sql located in the project's root  directory.<br>
 	 or
 -  Apply the migrations and manually populate the tables with test data (you can also import the dump onto the created tables).
 
