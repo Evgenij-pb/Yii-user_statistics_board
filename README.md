@@ -3,7 +3,7 @@
 </p>
 <h1 align="center"> User's Statistics Board</h1>
 
-### ABOAT 
+### ABOUT 
 The application displays users and counts completed tasks by categories for a specific period.
 <br>
 
@@ -62,7 +62,7 @@ DIRECTORY STRUCTURE
       mail/               contains view files for e-mails
       models/             contains model classes
       runtime/            contains files generated during runtime
-      services/  	  contains service classes
+      services/           contains service classes
       tests/              contains various tests for the basic application
       vendor/             contains dependent 3rd-party packages
       views/              contains view files for the Web application
